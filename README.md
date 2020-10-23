@@ -1,1 +1,22 @@
-[![Sangwon Ryu's Github Stats](https://github-readme-stats.vercel.app/api?username=sangwon090)](https://github.com/sangwon090)
+# Sangwon Ryu
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=sangwon090)](https://github.com/sangwon090)
+
+## 프로그래밍
+- C, C++, C#, Python, Rust를 주로 사용합니다.
+- JavaScript, Kotlin을 가끔 사용합니다.
+- VB.NET을 사용한 경험이 있습니다.
+- 웹 개발은 유독 잘 못합니다.
+
+## 알고리즘
+- 갈 길이 멉니다 😱
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sangwon090)](https://solved.ac/profile/sangwon090)
+
+## 보안
+- 보안 공부를 시작한지 얼마 안됐습니다.
+- 리버싱, 포너블에 관심이 많습니다.
+
+## 블로그
+- [blog](https://blog.sryu.dev/)
+- [이메일 (Naver)](mailto:bdboy090@naver.com)
+- [이메일 (Gmail)](mailto:bdboy4665@gmail.com)
