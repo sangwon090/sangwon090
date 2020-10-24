@@ -16,8 +16,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sangwon090)](https://solved.ac/profile/sangwon090)
 
 ## 보안
-- 보안 공부를 시작한지 얼마 안됐습니다.
-- 리버싱, 포너블에 관심이 있습니다.
+- 보안 공부를 시작한지 얼마 안됐습니다. 🐣
+- 리버싱, 포너블에 관심이 있습니다. 😎
 - [Dreamhack](https://dreamhack.io/users/3826)
 
 ## 링크
