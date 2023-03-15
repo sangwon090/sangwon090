@@ -1,7 +1,4 @@
 # Sangwon Ryu
-(bitcoin) bc1qceplrcv95dvh68sy5ks7c7w69zrsu3tx5q5rw8
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=sangwon090)](https://github.com/sangwon090)
 
 ## 프로그래밍
 - Rust, Python을 주로 사용합니다.
