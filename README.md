@@ -16,5 +16,4 @@
 
 ## 링크
 - [블로그](https://blog.sryu.dev/)
-- [이메일 (Naver)](mailto:bdboy090@naver.com)
-- [이메일 (Gmail)](mailto:bdboy4665@gmail.com)
+- [이메일](mailto:me@sryu.dev)
