@@ -1,7 +1,7 @@
 # Sangwon Ryu
 
 ## 프로그래밍
-- Rust, Python을 주로 사용합니다.
+- Rust, Python, Kotlin을 주로 사용합니다.
 - C, C#, Java, JavaScript도 가끔 사용합니다.
 
 ## 알고리즘
