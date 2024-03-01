@@ -1,19 +1,32 @@
 # Sangwon Ryu
 
-## 프로그래밍
-- Rust, Python, Kotlin을 주로 사용합니다.
-- C, C#, Java, JavaScript도 가끔 사용합니다.
+## Skills
+### Programming
+I'm interested in low-level stuffs like Operating Systems and Compilers.
 
-## 알고리즘
-- [Baekjoon Online Judge](https://www.acmicpc.net/user/sangwon090)
-  - [Solved.ac](https://solved.ac/profile/sangwon090)
+- I mainly use Rust, C++, Python and Kotlin.
+- I used to enjoy using C#, Java and JavaScript.
+
+### Algorithmic Problem Solving
+I'm new to Competitive Programming.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sangwon090)](https://solved.ac/profile/sangwon090)
 
-## 보안
-- 리버싱, 포렌식에 관심이 있습니다.
-- [Dreamhack](https://dreamhack.io/users/3826)
+- [Baekjoon Online Judge](https://www.acmicpc.net/user/sangwon090) and [Solved.ac](https://solved.ac/profile/sangwon090)
+- [CodeForces](https://codeforces.com/profile/sangwon090)
 
-## 링크
-- [블로그](https://blog.sryu.dev/)
-- [이메일](mailto:me@sryu.dev)
+### Cybersecurity
+I'm interested in Reverse Engineering, System Hacking and Digital Forensics.
+
+- [Dreamhack](https://dreamhack.io/users/3826)
+- [CTFtime](https://ctftime.org/user/185121)
+
+## Activities
+- (2023.04 - 2023.11) Software Maestro 14th
+
+## Awards
+- (2023. 3) Soongsil University CTF - #1 in the Beginner Division and #2 in the Entire Scoreboard.
+
+## External Links
+- [Blog](https://blog.sryu.dev/)
+- [Email](mailto:me@sryu.dev)
