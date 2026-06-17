@@ -8,12 +8,12 @@
 ### Security
 - Interested in systems security, binary exploitation and reverse engineering
 - Focused on vulnerability research in low-level software and systems
-- DEFCON CTF 2026 finalist (team Jinddabi's), reported `CVE-2026-32253` (CVSS 9.8, Sunshine)
+- DEFCON CTF 2026 finalist (team Jinddabi's), reported **CVE-2026-32253** (CVSS 9.8, Sunshine)
 
 ### Compilers
 - Interested in compiler infrastructure and program optimization
 - Exploring MLIR/LLVM and intermediate representations
-- Currently building a compiler for [Haetae](https://github.com/sangwon090/haetae), a heterogeneous functional language
+- Currently building a compiler for [**Haetae**](https://github.com/sangwon090/haetae), a heterogeneous functional language
 
 ---
 
