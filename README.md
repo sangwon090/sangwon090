@@ -1,9 +1,22 @@
 # 유상원 · Sangwon Ryu
 
-- Studying CSE at Soongsil University
-- Software Maestro 14th Alumni
-- Enjoys exploring the low-level details beneath abstractions.
-- Primarily works with Rust, C++ and Python, with interests in compilers and cybersecurity.
-- PGP Fingerprint: `4C96 EEF9 5F7D 32D8 D9BA 713C 606B B439 2A7B C9BE`
+### General
+- Studying CSE at Soongsil University; Software Maestro 14th
+- Enjoys exploring the low-level details behind abstractions
+- Primarily works with Rust, C++, and Python
 
-[LinkedIn](https://www.linkedin.com/in/sangwon090/) | [Telegram](https://t.me/sangwon090) | [Blog](https://sryu.dev/) | [Email](mailto:me@sryu.dev) | [PGP Key](https://sryu.dev/public.asc)
+### Security
+- Interested in systems security, binary exploitation and reverse engineering
+- Focused on vulnerability research in low-level software and systems
+- DEFCON CTF 2026 finalist (team Jinddabi's), reported `CVE-2026-32253` (CVSS 9.8, Sunshine)
+
+### Compilers
+- Interested in compiler infrastructure and program optimization
+- Exploring MLIR/LLVM and intermediate representations
+- Currently building a compiler for [Haetae](https://github.com/sangwon090/haetae), a heterogeneous functional language
+
+---
+
+PGP Fingerprint: `4C96 EEF9 5F7D 32D8 D9BA 713C 606B B439 2A7B C9BE`
+
+[Blog](https://sryu.dev/) | [Résumé](https://sryu.dev/en/resume) | [Email](mailto:me@sryu.dev) | [PGP Key](https://sryu.dev/public.asc)
