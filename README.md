@@ -7,8 +7,8 @@
 
 ### Security
 - Interested in systems security, binary exploitation and reverse engineering
-- Focused on vulnerability research in low-level software and systems
-- DEFCON CTF 2026 finalist (team Jinddabi's), reported **CVE-2026-32253** (CVSS 9.8, Sunshine) and **CVE-2026-53489** (containerd)
+- Reported **CVE-2026-32253** (CVSS 9.8, Sunshine) and **CVE-2026-53489** (containerd)
+- DEFCON CTF 2026 finalist (team Jinddabi's)
 
 ### Compilers
 - Interested in compiler infrastructure and program optimization
