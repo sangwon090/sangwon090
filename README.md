@@ -3,7 +3,7 @@
 ### General
 - Studying CSE at Soongsil University; Software Maestro 14th
 - Enjoys exploring the low-level details behind abstractions
-- Primarily works with Rust, C++, and Python
+- Primarily works with Rust, C++ and Python
 
 ### Security
 - Interested in systems security, binary exploitation and reverse engineering
