@@ -1,14 +1,14 @@
 # 유상원 · Sangwon Ryu
 
 ### General
-- Studying CSE at Soongsil University; Software Maestro 14th
+- Studying CSE at Soongsil University
+- Software Maestro 14th Alumni, KISA BoB Vulnerability Research 15th Trainee 
 - Enjoys exploring the low-level details behind abstractions
-- Primarily works with Rust, C++ and Python
 
 ### Security
 - Interested in systems security, binary exploitation and reverse engineering
 - Reported **CVE-2026-32253** (CVSS 9.8, Sunshine) and **CVE-2026-53489** (containerd)
-- DEFCON CTF 2026 finalist (team Jinddabi's)
+- DEF CON CTF 2026 finalist (team: Jinddabi's)
 
 ### Compilers
 - Interested in compiler infrastructure and program optimization
