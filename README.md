@@ -17,6 +17,6 @@
 
 ---
 
-PGP Fingerprint: `4C96 EEF9 5F7D 32D8 D9BA 713C 606B B439 2A7B C9BE`
+PGP Fingerprint: `EADE 7A3B 5785 AD30 4F18 B6D2 29BA BA22 402E 7220`
 
 [Blog](https://sryu.dev/) | [Résumé](https://sryu.dev/en/resume) | [Email](mailto:me@sryu.dev) | [PGP Key](https://sryu.dev/public.asc)
