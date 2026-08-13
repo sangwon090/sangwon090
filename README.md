@@ -8,7 +8,7 @@
 ### Security
 - Interested in systems security, binary exploitation and reverse engineering
 - Reported **CVE-2026-32253** (CVSS 9.8, Sunshine) and **CVE-2026-53489** (containerd)
-- DEF CON CTF 2026 qualifier (team: Jinddabi's)
+- DEF CON 34 CTF Finals — 7th place (team: Jinddabi's)
 
 ### Compilers
 - Interested in compiler infrastructure and program optimization
